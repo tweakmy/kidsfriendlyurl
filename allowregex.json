@@ -1,0 +1,33 @@
+{
+    "patterns": [ 
+        ".*google.com/search.*",
+        "about\\:blank",
+        ".*youtube\\.com.*",
+        ".*accounts.google.com.*",
+        ".*.doubleclick.net.*",
+        ".*.livechatinc.com.*",
+        ".*pinterest.com.*",
+        ".*chatgpt.*",
+        "chrome:\\/\\/extensions",
+        "github.*",
+        ".*chinese.*",
+        ".*edalive.*",
+        ".*wikipedia.*",
+        ".*readingeggs.*",
+        ".*9news.*",
+        ".*typingtournament.*",
+        ".*moodle.*",
+        ".*\\.org.*",
+        ".*youtu.be",
+        ".*microsoft",
+        ".*cloudflare",
+        ".*kineticeducation.*",
+        ".*elearnoncloud.*",
+        ".*matheletics.*",
+        ".*identiy-gateway.*",
+        ".*comicbookplus\\.com.*",
+        ".*abc\\.com\\.au*",
+        ".*readtheory*",
+        "192.168.0.*"
+    ]
+}
