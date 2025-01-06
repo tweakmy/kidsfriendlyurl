@@ -29,6 +29,7 @@
         ".*comicbookplus\\.com.*",
         ".*abc\\.com\\.au*",
         ".*readtheory*",
+        ".*stackoverflow.*",
         "192.168.0.*"
     ]
 }
