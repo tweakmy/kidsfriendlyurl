@@ -2,14 +2,13 @@
     "patterns": [ 
         ".*google.com/search.*",
         ".*console.*\\.google\\.com",
-        "about\\:blank",
-        ".*youtube\\.com.*",
         ".*accounts.google.com.*",
+        ".*chrome\\.google\\.com\\.*,
+        ".*youtube\\.com.*",
         ".*.doubleclick.net.*",
         ".*.livechatinc.com.*",
         ".*pinterest.com.*",
         ".*chatgpt.*",
-        "chrome\\:.*",
         "github.*",
         ".*chinese.*",
         ".*edalive.*",
@@ -31,6 +30,8 @@
         ".*abc\\.com\\.au*",
         ".*readtheory*",
         ".*stackoverflow.*",
+        "chrome\\:.*",
+        "about\\:blank",
         "192.168.0.*"
     ]
 }
