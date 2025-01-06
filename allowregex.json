@@ -3,7 +3,7 @@
         ".*google.com/search.*",
         ".*console.*\\.google\\.com",
         ".*accounts.google.com.*",
-        ".*chrome\\.google\\.com\\.*,
+        ".*chrome\\.google\\.com\\.*",
         ".*youtube\\.com.*",
         ".*.doubleclick.net.*",
         ".*.livechatinc.com.*",
