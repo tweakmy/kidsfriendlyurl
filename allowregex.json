@@ -8,7 +8,7 @@
         ".*.livechatinc.com.*",
         ".*pinterest.com.*",
         ".*chatgpt.*",
-        "chrome:\\/\\/extensions",
+        "chrome\\:.*",
         "github.*",
         ".*chinese.*",
         ".*edalive.*",
