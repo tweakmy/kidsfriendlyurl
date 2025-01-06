@@ -1,6 +1,7 @@
 {
     "patterns": [ 
         ".*google.com/search.*",
+        ".*console.*\\.google\\.com",
         "about\\:blank",
         ".*youtube\\.com.*",
         ".*accounts.google.com.*",
