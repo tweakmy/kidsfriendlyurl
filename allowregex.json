@@ -1,6 +1,7 @@
 {
     "patterns": [ 
         ".*padlet.com.*",
+        ".*education.qld.gov.au.*",
         ".*qlearn.eq.edu.au.*",
         ".*docs.google.com.*",
         ".*google.com/search.*",
