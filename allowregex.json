@@ -5,6 +5,7 @@
         ".*qlearn.eq.edu.au.*",
         ".*docs.google.com.*",
         ".*mail.google.com.*",
+        ".*accounts.google.com.*",
         ".*google.com/search.*",
         ".*console.*\\.google\\.com",
         ".*accounts.google.com.*",
