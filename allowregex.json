@@ -1,5 +1,6 @@
 {
     "patterns": [ 
+        ".*docs.google.com.*",
         ".*google.com/search.*",
         ".*console.*\\.google\\.com",
         ".*accounts.google.com.*",
