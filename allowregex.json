@@ -6,6 +6,7 @@
         ".*docs.google.com.*",
         ".*meet.google.com.*",
         ".*mail.google.com.*",
+        ".*drive.google.com.*",
         ".*google.com/search.*",
         ".*console.*\\.google\\.com",
         ".*accounts.google.com.*",
