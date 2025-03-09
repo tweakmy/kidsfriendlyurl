@@ -26,6 +26,8 @@
         ".*moodle.*",
         ".*\\.org.*",
         ".*youtu.be.*",
+        ".*login.live.com.*",
+        ".*login.microsoftonline.com.*",
         ".*teams.microsoft.*",
         ".*microsoft.*",
         ".*outlook.com.*",
