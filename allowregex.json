@@ -1,6 +1,6 @@
 {
     "patterns": [ 
-        "*.commbank.com.au.*",
+        ".*commbank.com.au.*",
         ".*padlet.com.*",
         ".*education.qld.gov.au.*",
         ".*qlearn.eq.edu.au.*",
