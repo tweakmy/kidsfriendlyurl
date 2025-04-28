@@ -1,5 +1,6 @@
 {
     "patterns": [ 
+        ".*vocabulary.com.*",
         ".*commbank.com.au.*",
         ".*padlet.com.*",
         ".*education.qld.gov.au.*",
